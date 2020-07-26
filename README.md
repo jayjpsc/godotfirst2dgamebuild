@@ -1,2 +1,2 @@
-# godotfirst2dgamebuild
-learning game programming and designing skill on godot.
+# myfirst2dgamebuildongodot
+learning games programming and designing skill on godot.
